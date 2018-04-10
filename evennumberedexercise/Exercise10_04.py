@@ -8,7 +8,7 @@ def main():
 
     for score in scores:
         if score >= average:
-            numOfAbove += 0
+            numOfAbove += 1
 
     print("Average is", average)
     print("Number of scores above or equal to the average", numOfAbove)

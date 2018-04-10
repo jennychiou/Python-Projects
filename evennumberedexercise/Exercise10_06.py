@@ -11,7 +11,7 @@ isPrime = True # Is the current number prime?
 print("The first 50 prime numbers are \n")
 
 # Repeatedly find prime numbers
-while ount < NUM_OF_PRIMES:
+while count < NUM_OF_PRIMES:
     # Assume the number is prime
     isPrime = True
 
